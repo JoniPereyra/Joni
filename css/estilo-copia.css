@@ -1,0 +1,103 @@
+* {
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+/* FONDO NEGRO DEL BODY */
+.body {
+   background-color: black;
+}
+
+/* ESTILOS DE LA BIOGRAFIA */
+.biografia {
+   color: white;
+   font-size: 3.5rem;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+/* PARRAFO DE LA BIOGRAFIA */
+.parrafo {
+   color: white;
+   font-size: 1.5rem;
+}
+
+/* CLASS DE COLOR BLACO */
+.c-blanco {
+   color: white;
+}
+
+/* CLASS DE COLOR VERDE */
+.c-verde {
+   background-color: rgb(5, 66, 48);
+}
+
+/* TAMAÑO DE BARRA DE NAVEGACION */
+.nav-link {
+   font-size: 1.5rem;
+}
+
+/* TAMAÑO DE ENINEM EN BARRA DE NAVEGACION */
+.navbar-brand {
+   font-size: 2.5rem;
+}
+
+/* ESTILO DE LA PALABRA PELICULA */
+.peliculas {
+   color: white;
+   font-size: 3.5rem;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+
+/* ESTILO DE LA PALABRA TOUR */
+.tour {
+   color: white;
+   font-size: 3.5rem;
+   margin-top: 20px;
+   margin-bottom: 20px;
+
+
+}
+
+/*POSICIONAMIENTO DE TODO LO QUE ESTA ADENTRO DE TOUR 2022 */
+.container {
+   margin: auto;
+   color: white;
+
+}
+
+
+/* TAMAÑO LUGARES TOUR */
+.lugares-tour {
+   font-size: 2.5rem;
+}
+
+
+/* BORDES DE LUGARES Y TICKET */
+.lugares {
+   border: 2px solid white;
+}
+
+
+/* TAMAÑO DE LETRA DE TICKET */
+.ticket {
+   font-size: 2rem;
+}
+
+
+/* SACAR LOS PUNTOS A LOS UL */
+ul {
+   list-style: none;
+}
+
+
+
+/* ANIMACION PALABRA EMINEM */
+.navbar-brand:hover {
+   background-color: white;
+   transition-duration: 4s;
+
+}
